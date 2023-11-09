@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Fdikaa
-- 👀 I’m interested in coding and simulations
+- 👋 Hi, I’m @dikafadi
+- 👀 I’m interested in coding and simulations and i have a skills in solidwork 
 - 🌱 I’m currently learning python and comsol multiphysics
 - 💞️ I’m looking to collaborate on programming 
 - 📫 you can reach me on my email fadiahmaddika@gmail.com
